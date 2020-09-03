@@ -1,6 +1,6 @@
 # Open Source Back-end_NodeJS
 ![Developer](https://img.shields.io/badge/GabrielFSSantos-Back--end__NodeJS-blue)
-[![licence mit](https://img.shields.io/github/license/GabrielFSSantos/Back-end_NodeJS)](https://github.com/GabrielFSSantos/TypeScript/blob/master/LICENSE)
+[![licence mit](https://img.shields.io/github/license/GabrielFSSantos/Back-end_NodeJS)](https://github.com/GabrielFSSantos/Back-end_NodeJS/blob/master/LICENSE)
 
 > :wrench:  Back-end_NodeJS é um projeto base de um back-end em NodeJS, com codigo limpo e pronto para ser implementado. <br>
 > :books: O projeto foi desenvolvido com o intuito de exercitar meus conhecimentos de programação e para fins didáticos.
@@ -25,7 +25,7 @@
 * [StackEdit] - Excelente editor de Markdown online.
 
 ## License
-[MIT License](https://github.com/GabrielFSSantos/TypeScript/blob/master/LICENSE)
+[MIT License](https://github.com/GabrielFSSantos/Back-end_NodeJS/blob/master/LICENSE)
 
 [Node.js]: <https://nodejs.org/>
 [VSCode]: <https://code.visualstudio.com/>
