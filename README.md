@@ -20,18 +20,13 @@
 ## Tech
 > :space_invader:Softwares e tecnologias utilizadas para o desenvolvimento e uso do projeto:
 
-
-
-* [Node.js] - Ferramenta utilizada parao desenvolvimento back-end.
-* [JavaScript] - Linguagem utilizada parao desenvolvimento back-end.
+* [Node.js] - Ferramenta utilizada para o desenvolvimento back-end.
 * [VSCode] - Ótimo editor de texto.
 * [StackEdit] - Excelente editor de Markdown online.
 
 ## License
 [MIT License](https://github.com/afonsopacifer/open-source-boilerplate/blob/master/LICENSE.md) ©
 
-
-[JavaScript]: <https://devdocs.io/javascript/>
 [Node.js]: <https://nodejs.org/>
 [VSCode]: <https://code.visualstudio.com/>
 [StackEdit]: <https://stackedit.io/>
